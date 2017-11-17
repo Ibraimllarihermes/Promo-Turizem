@@ -3,6 +3,6 @@ Pershkrimi : Ky app do te ndihmoj cdo turist ne cdo qytet te Shqiperis duke i sh
 
 Synon : Te ndihmoj cdo turist ne vendin tone qe te jete sa me i orientuar se cfar deshiron te vizitoj.
 
-Grupi perbehet nga : Hermes Ibraimllari
-                     Daniel Mehmeti 
-                     Kamila Roko
+Grupi perbehet nga :* Hermes Ibraimllari
+                    * Daniel Mehmeti 
+                    * Kamila Roko
