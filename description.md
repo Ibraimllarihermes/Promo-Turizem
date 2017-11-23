@@ -8,4 +8,4 @@ Si funksionon : Ne momentin qe App futet ne nje qytet te Shqiperis ai automatiki
 
 Do te jete mundesia qe te behet vlersimi rreth vendin qe eshte vizituar nga perdoruesi i app.
 
-Grupi perbehet nga : * Hermes Ibraimllari * Daniel Mehmeti * Kamila Roko
+Grupi perbehet nga : * Hermes Ibraimllari * Daniel Mehmeti * Kamila Roko * Irlind Rapushi
